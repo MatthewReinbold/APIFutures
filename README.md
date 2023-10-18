@@ -52,7 +52,7 @@ When you have created your contribution, [submit the proposed URL via this Googl
 ## Where do I find the list of other API Futures contributions for inclusion in my piece? 
 A list of submitted contributions will be provided in markdown and copy/paste format at [the API Futures repository](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). The example links and a final version will be provided by January 9th for inclusion in your draft pieces. 
 
-## Can you summarize that process in a hand-drawn version that might be mistaken for the work of a child?
+## Can you summarize that process in a drawing that might be mistaken for the child's work?
 Yes! Certainly.
 
 ![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/408d44e5-9520-4479-baa4-ff0a0f504f51)
