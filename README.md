@@ -53,7 +53,8 @@ When you have created your contribution, [submit the proposed URL via this Googl
 A list of submitted contributions will be provided in markdown and copy/paste format at [the API Futures repository](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). The example links and a final version will be provided by January 9th for inclusion in your draft pieces. 
 
 ## Can you summarize that process in a hand-drawn version that might be mistaken for the work of a child?
-Certainly! 
+Yes! Certainly.
+
 ![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/408d44e5-9520-4479-baa4-ff0a0f504f51)
 
 ## Do I have to include links to other projects in my writing to participate? 
