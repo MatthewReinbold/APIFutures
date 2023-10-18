@@ -52,6 +52,10 @@ When you have created your contribution, [submit the proposed URL via this Googl
 ## Where do I find the list of other API Futures contributions for inclusion in my piece? 
 A list of submitted contributions will be provided in markdown and copy/paste format at [the API Futures repository](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). The example links and a final version will be provided by January 9th for inclusion in your draft pieces. 
 
+## Can you summarize that process in a charmingly hand-drawn version that might be mistaken for the work of a child?
+Certainly! 
+![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/0aa0b94c-1573-49cb-9cfc-b6868b3b8ca8)
+
 ## Do I have to include links to other projects in my writing to participate? 
 Which links you include in your contribution is entirely up to you! There may be situations where creators may be publishing to their work sites; in the process, there may be sensitivities about tacit recommendations of a competitor. In those cases, share the references to pieces you are comfortable with and avoid those that may be problematic.
 
