@@ -54,8 +54,7 @@ A list of submitted contributions will be provided in markdown and copy/paste fo
 
 ## Can you summarize that process in a hand-drawn version that might be mistaken for the work of a child?
 Certainly! 
-![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/a4c9be19-aca2-4145-af35-2bcf19c0a53e)
-
+![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/408d44e5-9520-4479-baa4-ff0a0f504f51)
 
 ## Do I have to include links to other projects in my writing to participate? 
 Which links you include in your contribution is entirely up to you! There may be situations where creators may be publishing to their work sites; in the process, there may be sensitivities about tacit recommendations of a competitor. In those cases, share the references to pieces you are comfortable with and avoid those that may be problematic.
