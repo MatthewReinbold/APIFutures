@@ -31,7 +31,7 @@ It would be helpful, though not required for participation, for creators promoti
 It is also desirable, though not required for participation, for each contribution to end with a call to action (below). This inclusion encourages the audience to check out other event contributions and create their own. Personalization of the call to action, including which other pieces are linked to, is entirely up to the creator's discretion. 
 
 ## Is there an option for participants to get feedback on their contribution before the final publishing date? 
-If folks are interested in having a collaborative session to gather feedback on their contribution in either early December or January, contact Matthew Reinbold via email at hello@matthewreinbold.com.
+If folks are interested in having a collaborative session to gather feedback on their contribution in either early December or January, contact Matthew Reinbold via email at *hello@matthewreinbold.com*.
 
 ## Where do I publish my API Futures contribution?
 Creators publish their contributions wherever they want! If you have a YouTube presence, post to your channel like usual. If you have an email newsletter, hopefully, a special 'API Futures' focused issue slots nicely into your editorial calendar! 
@@ -47,7 +47,7 @@ All creators will be encouraged to add links to other participant's works after 
 Sample text will be provided that creators can copy and paste into their pieces **by January 9th**. 
 
 ## How do I submit a link to my contribution so others can link to it? 
-When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6). If there aren't any questions, the piece title, author, and link will be added to the list of contributions for inclusion. 
+When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6) prior to January 9th. If there aren't any questions upon review, the piece title, author, and link will be added to [the list of contributions for inclusion](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). 
 
 ## Where do I find the list of other API Futures contributions for inclusion in my piece? 
 A list of submitted contributions will be provided in markdown and copy/paste format at [the API Futures repository](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). The example links and a final version will be provided by January 9th for inclusion in your draft pieces. 
