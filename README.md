@@ -3,28 +3,34 @@
 ## What is "API Futures"? 
 API Futures is a distributed, creator-led effort to identify the most significant opportunity and/or the greatest challenge facing the API community in 2024.
 
-By synchronizing efforts across a range of diverse audiences spanning the API gamut, the API Futures event will create a "critical mass" of attention, sparking subsequent discussion and awareness.
+By coordinating efforts across a range of diverse audiences spanning the API gamut, the API Futures event will focus attention of many audiences, sparking subsequent discussion and awareness.
 
 ## When does API Futures happen?
 Writers, podcasters, YouTubers, and more participating in the API Futures event should publish their contributions on **JANUARY 11TH, 2024**. 
 
 ## Who can participate?
-The API Futures event is open to anyone interested in interacting with and improving practice across the wider API community.
+The API Futures event is open to anyone interested in interacting with and improving upon practices across the wider API community.
 
 ## Is there a cost to participate in API Futures? 
-There is no cost to participate in API Futures.
+There is no cost to participate in API Futures beyond the effort to participate.
 
-## What benefits do participants receive by participating in the API Futures event? 
-Participating in the API Futures event offers an opportunity to gain wider exposure and connect with new audiences. Here are some key benefits:
+## Are there other ways to participate other than as a content creator? 
+Absolutely! Comment on posts that you find interesting or retweet/reshare any posts that you found interesting.
+
+## Are vendors able to participate? 
+Of course! Vendors often bring important insights into the space. Just remember that the spirit of this endeavor is not about promoting your specific solution, so focus on why the challenge/problem matters.
+
+## What benefits do creators receive by participating in the API Futures event? 
+Participating in the API Futures event offers an opportunity to gain wider exposure and connect with new people and audiences. Benefits include:
 * **Increased Visibility**: By linking your work to other participants' contributions, your pieces can be discovered by their followers, potentially expanding your subscriber base or readership. Similarly, your current followers will get to explore exciting, related, and relevant work from other creators.
 * **Networking Opportunities**: Engaging in API Futures provides a chance to collaborate and build relationships with others in the API creator space. This can lead to future collaborations, guest appearances, or partnership opportunities. 
-* **Enriched Content Diversity**: By exploring diverse perspectives on API challenges and opportunities, you can gain new insights, which can enrich your own content and understanding of the subject. 
+* **Enriched Content Diversity**: By exploring diverse perspectives on API challenges and opportunities, you may can gain new insights, which can enrich your own content and understanding of the subject. 
 * **Boosted Engagement**: The combined efforts of all participants to promote the event using the '#APIFutures' hashtag can create a ripple effect, driving more engagement, comments, and shares for your content. 
 * **Professional Growth**: Being part of a collaborative initiative like API Futures can enhance your reputation as a leader in the API community who is invested in its growth and evolution.
-Bottom line, preparing a contribution for API Futures isn't only about sharing content; it's about growing together as a community, building mutually beneficial bridges, and casting a north star for others to follow.
+Bottom line, preparing a contribution for API Futures isn't only about sharing content; it's about growing together as a community, building mutually beneficial bridges, and creating a beacon for others to follow.
 
-## Are there any specific guidelines or requirements for the contributions? 
-Creators are expected to present the most pressing API challenge or exciting opportunity they see for the coming year (2024). The exact contents, length, publish destination, or presentation style is entirely up to the individual creators. 
+## Are there any specific guidelines or requirements for contributing? 
+Creators are expected to present the most pressing API challenge or exciting opportunity they see for the coming year (2024) and beyond. The exact contents, length, publish destination, or presentation style is entirely up to the individual creators. 
 
 It would be helpful, though not required for participation, for creators promoting their published work across social media to use the hashtag, "#APIFutures". Most networks support tags, and discoverability is increased through the consistent application of a single label.
 
@@ -34,7 +40,7 @@ It is also desirable, though not required for participation, for each contributi
 If folks are interested in having a collaborative session to gather feedback on their contribution in either early December or January, contact Matthew Reinbold via email at *hello@matthewreinbold.com*.
 
 ## Where do I publish my API Futures contribution?
-Creators publish their contributions wherever they want! If you have a YouTube presence, post to your channel like usual. If you have an email newsletter, hopefully, a special 'API Futures' focused issue slots nicely into your editorial calendar! 
+Creators publish their contributions wherever they want! If you have a YouTube presence, post to your channel like usual on January 11th, 2024. If you have an email newsletter, hopefully, a special 'API Futures' focused issue slots nicely into your editorial calendar! 
 
 The point is that creators control how and where their work is presented. 
 
@@ -44,7 +50,7 @@ Creators maintain all rights to their contributions created for the API Futures 
 ## How will others find my contribution?
 All creators will be encouraged to add links to other participant's works after their piece. For YouTube, podcasts, or other non-textual media, creators are encouraged to leave links to other contributions in the description. 
 
-Sample text will be provided that creators can copy and paste into their pieces **by January 9th**. 
+Sample text that creators can copy and paste into their pieces will be added to these instructions **by January 9th**. 
 
 ## How do I submit a link to my contribution so others can link to it? 
 When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6) prior to January 9th. If there aren't any questions upon review, the piece title, author, and link will be added to [the list of contributions for inclusion](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). 
