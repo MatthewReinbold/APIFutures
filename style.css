@@ -14,7 +14,6 @@ body {
 header {
     text-align: center;
     padding: 20px 0;
-    /* background-color: #38F9F9;*/
     background-color: #6365F7;
     color: #FFF;
 }
@@ -29,7 +28,6 @@ header p {
 }
 
 .contributions {
-    /* background-color: #6365F7; */
     padding: 20px;
     border-radius: 8px;
     margin-top: 20px;
@@ -60,11 +58,9 @@ header p {
 footer {
     text-align: center;
     padding: 20px 0;
-    /* background-color: #38F9F9;*/
     background-color: #6365F7;
-    /* color: #0E0E26; */
     color: #FFF;
     position: fixed;
     bottom: 0;
-    /* width: 100%;*/
+    width: 80%;
 }
