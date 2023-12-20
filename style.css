@@ -38,12 +38,12 @@ header p {
 }
 
 .contributions ul {
-    list-style-type: none;
     padding: 0;
 }
 
 .contributions li {
     margin-bottom: 10px;
+    padding: 0 0 0 8px;
 }
 
 .contributions a {
