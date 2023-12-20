@@ -56,7 +56,9 @@ Sample text that creators can copy and paste into their pieces will be added to 
 When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6) prior to January 9th. If there aren't any questions upon review, the piece title, author, and link will be added to [the list of contributions for inclusion](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). 
 
 ## Where do I find the list of other API Futures contributions for inclusion in my piece? 
-A list of submitted contributions will be provided in markdown and copy/paste format at [the API Futures repository](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). The example links and a final version will be provided by January 9th for inclusion in your draft pieces. 
+A list of submitted contributions will be provided in markdown and copy/paste format at [the API Futures repository](https://github.com/MatthewReinbold/APIFutures/blob/main/2024/contributions.md). The example links and a final version will be provided by January 9th for inclusion in your draft pieces. 
+**-OR-**
+Rather than embed links to all the pieces in each piece (or have several links in the description box of, say, a YouTube video), contributors can provide a link to a *single* APIFutures [landing page](). 
 
 ## Can you summarize that process in a drawing that might be mistaken for a child's work?
 Yes! Certainly.
