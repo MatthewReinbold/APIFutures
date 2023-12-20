@@ -1,21 +1,25 @@
 body {
     font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height:1.6;
     margin: 0;
     padding: 0;
     color: #0E0E26;
-    background-color: #FFFFFF;
+    background-color: #0E0E26;
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
+    background-color: #FFF;
+    min-height: calc(100vh - 60px);
+    box-sizing: border-box;
 }
 
 header {
     text-align: center;
     padding: 20px 0;
-    background-color: #FFF;
-    color: #FFF;
+    color: #0E0E26;
 }
 
 header h1 {
@@ -27,14 +31,23 @@ header p {
     color: #0E0E26;
 }
 
+main {
+    background-color: #FFF;
+    text-align: center;
+}
+
 .contributions {
-    padding: 20px;
+    /* padding: 20px;*/
     border-radius: 8px;
-    margin-top: 20px;
+    /*margin-top: 20px;*/
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left;
 }
 
 .contributions h2 {
-    color: #FFFFFF;
+    color: #6365F7;
 }
 
 .contributions ul {
@@ -48,7 +61,7 @@ header p {
 
 .contributions a {
     color: #0E0E26;
-    text-decoration: none;
+    font-weight: bold;
 }
 
 .contributions a:hover {
@@ -59,10 +72,16 @@ footer {
     text-align: center;
     padding: 20px 0;
     background-color: #6365F7;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
     color: #FFF;
     position: fixed;
     bottom: 0;
     width: 80%;
+}
+
+footer a {
+    color: #38F9F9;
 }
 
 img {
