@@ -1,4 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%; /* Ensure the full height of the viewport is used */
+    margin: 0;
+    padding: 0;
+}
+
 body {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
     font-family: Arial, sans-serif;
     font-size: 16px;
     line-height:1.6;
@@ -11,15 +25,19 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
-    background-color: #FFF;
-    min-height: calc(100vh - 60px);
-    box-sizing: border-box;
+    /*min-height: calc(100vh - 60px);*/
+    flex: 1; /* Allows container to expand and push the footer down */
+    min-height: 0; /* fixes flexbox overflow issue */
 }
 
 header {
     text-align: center;
     padding: 20px 0;
     color: #0E0E26;
+    background-color: #FFF;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin-top: 20px;
 }
 
 header h1 {
@@ -37,13 +55,11 @@ main {
 }
 
 .contributions {
-    /* padding: 20px;*/
-    border-radius: 8px;
-    /*margin-top: 20px;*/
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     text-align:left;
+    padding-bottom: 20px;
 }
 
 .contributions h2 {
@@ -70,14 +86,14 @@ main {
 
 footer {
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 20px 20px 20px ;
     background-color: #6365F7;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
+    /* border-radius: 8px;*/
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+
     color: #FFF;
-    position: fixed;
-    bottom: 0;
-    width: 80%;
+    width: 100%;
 }
 
 footer a {
@@ -89,4 +105,17 @@ img {
     max-height: 100%;
     height: auto;
     width: auto;
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 600px) {
+    .container {
+        width: 100%; /* Take full page width on small screens */
+    }
+
+    footer {
+        position: static; /* Normal flow in the page */
+        width: 100%; /* Full width */
+        font-size: 80%;
+    }
 }
