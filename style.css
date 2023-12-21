@@ -66,8 +66,8 @@ main {
     color: #6365F7;
 }
 
-.contributions ul {
-    padding: 0;
+.contributions ul, p {
+    padding: 20px 0;
 }
 
 .contributions li {
