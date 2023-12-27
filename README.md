@@ -6,7 +6,7 @@ API Futures is a distributed, creator-led effort to identify the most significan
 By coordinating efforts across a range of diverse audiences spanning the API gamut, the API Futures event will focus attention of many audiences, sparking subsequent discussion and awareness.
 
 ## When does API Futures happen?
-Writers, podcasters, YouTubers, and more participating in the API Futures event should publish their contributions on [**JANUARY 11TH, 2024**, 12:01 GMT](https://dateful.com/convert/gmt?t=1201am&d=2024-01-11&tz2=USA-Central-Time). 
+Writers, podcasters, YouTubers, and more participating in the API Futures event should publish their contributions on [**JANUARY 11TH, 2024**, 12:01 am GMT](https://dateful.com/convert/gmt?t=1201am&d=2024-01-11&tz2=USA-Central-Time). 
 
 ## Who can participate?
 The API Futures event is open to anyone interested in interacting with and improving upon practices across the wider API community.
