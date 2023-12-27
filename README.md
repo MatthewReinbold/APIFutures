@@ -6,7 +6,7 @@ API Futures is a distributed, creator-led effort to identify the most significan
 By coordinating efforts across a range of diverse audiences spanning the API gamut, the API Futures event will focus attention of many audiences, sparking subsequent discussion and awareness.
 
 ## When does API Futures happen?
-Writers, podcasters, YouTubers, and more participating in the API Futures event should publish their contributions on **JANUARY 11TH, 2024**. 
+Writers, podcasters, YouTubers, and more participating in the API Futures event should publish their contributions on [**JANUARY 11TH, 2024**, 12:01 GMT](https://dateful.com/convert/gmt?t=1201am&d=2024-01-11&tz2=USA-Central-Time). 
 
 ## Who can participate?
 The API Futures event is open to anyone interested in interacting with and improving upon practices across the wider API community.
@@ -48,25 +48,14 @@ The point is that creators control how and where their work is presented.
 Creators maintain all rights to their contributions created for the API Futures event. 
 
 ## How will others find my contribution?
-All creators will be encouraged to add links to other participant's works after their piece. For YouTube, podcasts, or other non-textual media, creators are encouraged to leave links to other contributions in the description. 
+All creators are encouraged to add a link to [a special APIFutures landing page listing the other participant's works](https://matthewreinbold.github.io/APIFutures/index.html). For YouTube, podcasts, or other non-textual media, creators are encouraged to leave the link to the APIFutures landing page in the description. A example of how a blogger might present that link is shown below:
+![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/15f932dc-6da7-444d-9042-78857f800797)
 
-Sample text that creators can copy and paste into their pieces will be added to these instructions **by January 9th**. 
+## How do I submit a link to my contribution so that it appears on the APIFutures landing page? 
+When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6) **prior to January 9th**. If there aren't any questions upon review, the piece title, author, and link will be added to [the APIFutures landing page](https://matthewreinbold.github.io/APIFutures/index.html). 
 
-## How do I submit a link to my contribution so others can link to it? 
-When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6) prior to January 9th. If there aren't any questions upon review, the piece title, author, and link will be added to [the list of contributions for inclusion](https://github.com/MatthewReinbold/APIFutures/blob/main/2024-contributions.md). 
-
-## Where do I find the list of other API Futures contributions for inclusion in my piece? 
-A list of submitted contributions will be provided in markdown and copy/paste format at [the API Futures repository](https://github.com/MatthewReinbold/APIFutures/blob/main/2024/contributions.md). The example links and a final version will be provided by January 9th for inclusion in your draft pieces. 
-**-OR-**
-Rather than embed links to all the pieces in each piece (or have several links in the description box of, say, a YouTube video), contributors can provide a link to a *single* APIFutures [landing page](). 
-
-## Can you summarize that process in a drawing that might be mistaken for a child's work?
-Yes! Certainly.
-
-![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/408d44e5-9520-4479-baa4-ff0a0f504f51)
-
-## Do I have to include links to other projects in my writing to participate? 
-Which links you include in your contribution is entirely up to you! There may be situations where creators may be publishing to their work sites; in the process, there may be sensitivities about tacit recommendations of a competitor. In those cases, share the references to pieces you are comfortable with and avoid those that may be problematic.
+## Do I have to include a link to the APIFutures landing page in my contribution to participate? 
+Which links you include in your contribution and how they are presented is entirely up to you! Share the references you are comfortable with and avoid those that may be problematic.
 
 ## Is there any specific hashtag or phrase I should use when promoting our pieces on social media? 
 When promoting your contribution on social media, please use the hashtag '**#APIFutures**'. 
