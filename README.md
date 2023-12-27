@@ -49,7 +49,9 @@ Creators maintain all rights to their contributions created for the API Futures 
 
 ## How will others find my contribution?
 All creators are encouraged to add a link to [a special APIFutures landing page listing the other participant's works](https://matthewreinbold.github.io/APIFutures/index.html). For YouTube, podcasts, or other non-textual media, creators are encouraged to leave the link to the APIFutures landing page in the description. A example of how a blogger might present that link is shown below:
-![image](https://github.com/MatthewReinbold/APIFutures/assets/495507/15f932dc-6da7-444d-9042-78857f800797)
+<p align="center">
+  <img height="500" width="444" src="https://github.com/MatthewReinbold/APIFutures/assets/495507/15f932dc-6da7-444d-9042-78857f800797">
+</p>
 
 ## How do I submit a link to my contribution so that it appears on the APIFutures landing page? 
 When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6) **prior to January 9th**. If there aren't any questions upon review, the piece title, author, and link will be added to [the APIFutures landing page](https://matthewreinbold.github.io/APIFutures/index.html). 
