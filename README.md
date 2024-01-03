@@ -55,6 +55,9 @@ All creators are encouraged to add a link to [a special APIFutures landing page 
   <img height="500" width="444" src="https://github.com/MatthewReinbold/APIFutures/assets/495507/15f932dc-6da7-444d-9042-78857f800797">
 </p>
 
+## Are there image assets that I can include or customize for my contribution?
+Yes! Emma Kriskinans and her design team were kind enough to create several image assets that [are available elsewhere in this repository](https://github.com/MatthewReinbold/APIFutures/tree/main/2024/image_assets). These assets include logos with a variety of different backgrounds, banners, and hexidecimal color codes. 
+
 ## How do I submit a link to my contribution so that it appears on the APIFutures landing page? 
 When you have created your contribution, [submit the proposed URL via this Google Form](https://forms.gle/9UzNcMRQvxEYkshW6) **prior to January 9th**. If there aren't any questions upon review, the piece title, author, and link will be added to [the APIFutures landing page](https://matthewreinbold.github.io/APIFutures/index.html). 
 
